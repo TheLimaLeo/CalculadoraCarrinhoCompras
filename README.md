@@ -31,12 +31,12 @@ O aplicativo consiste num sistema de cálculo e gestão de carrinho de compras p
 ### Interface do Aplicativo (Emulador Android)
 
 
-> [Tela do Carrinho](<img width="386" height="843" alt="Captura de tela 2026-10-03 231550" src="https://github.com/user-attachments/assets/cd54476e-419e-4d8f-a1c6-9bd6e5092c86" />
+> ![Tela do Carrinho](https://github.com/user-attachments/assets/cd54476e-419e-4d8f-a1c6-9bd6e5092c86)
 )
 
 ### Registo no Logcat (Processamento de Relatório)
 
-> [Logcat](<img width="1550" height="317" alt="Captura de tela 2026-10-03 231912" src="https://github.com/user-attachments/assets/2774cad1-61e7-4cbb-92af-0e0a85cd4cdd" />
+![Logcat](https://github.com/user-attachments/assets/2774cad1-61e7-4cbb-92af-0e0a85cd4cdd)
 )
 
 ---
